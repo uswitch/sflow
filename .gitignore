@@ -1,0 +1,4 @@
+.bundle/
+pkg/
+bin/bundler
+bin/rake

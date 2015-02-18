@@ -6,3 +6,7 @@ gem "bindata"
 gem "eventmachine"
 gem "json"
 gem "minitest"
+
+group :uswitch do
+  gem 'uswitchci', :git => 'git@github.com:uswitch/uswitchci.git'
+end
